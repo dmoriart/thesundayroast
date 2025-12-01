@@ -87,7 +87,7 @@ export default function Home() {
                     <p className="text-rock-red uppercase tracking-[0.3em] text-sm md:text-base font-bold mb-4">
                         {bandData.genre}
                     </p>
-                    <h1 className="text-hero font-display uppercase rock-text mb-6">
+                    <h1 className="text-hero font-display uppercase rock-text mb-6 guitar-string-hover cursor-pointer">
                         {bandData.artist_name}
                     </h1>
                     <p className="text-lg md:text-xl text-rock-cream max-w-3xl mx-auto leading-relaxed mb-8">

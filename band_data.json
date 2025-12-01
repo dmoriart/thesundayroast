@@ -1,27 +1,27 @@
 {
-    "artist_name": "Stick N' Poke",
-    "genre": "Post-Punk / Indie",
-    "bio": "Stick N' Poke are a four piece, hard rock band from County Wicklow. Established in 2024, the band consists of Tadhg Conway on lead vocals and rhythm guitar, Sam Burke on lead guitar and backing vocals, Darragh Emerson on bass and Zak Hastie on drums.",
+    "artist_name": "The Sunday Roast",
+    "genre": "Indie Rock / Alternative",
+    "bio": "The Sunday Roast are an indie rock band bringing high-energy performances and infectious melodies to venues across Ireland. With their unique blend of alternative rock and indie sensibilities, they've quickly become a must-see act on the local circuit.",
     "hero_image": "hero-image.jpg",
     "spotify_embed_url": "https://open.spotify.com/embed/artist/1RzcU9dwm4kSI9sj9s2ZU3?utm_source=generator",
     "youtube_video_id": "",
     "social_links": {
-        "instagram": "https://www.instagram.com/sticknpokeband/",
+        "instagram": "https://www.instagram.com/thesundayroastband/",
         "tiktok": "",
-        "breaking_tunes": "https://hyperfollow.com/StickNPoke"
+        "breaking_tunes": ""
     },
     "tour_dates": [
         {
-            "date": "Dec 12",
-            "venue": "Whelan's",
+            "date": "Jan 15",
+            "venue": "The Workman's Club",
             "city": "Dublin",
-            "ticket_link": "https://whelans.com"
+            "ticket_link": "https://www.ticketmaster.ie"
         },
         {
-            "date": "Dec 20",
-            "venue": "The Harbour Bar",
-            "city": "Bray",
-            "ticket_link": "https://theharbourbar.ie"
+            "date": "Jan 22",
+            "venue": "Cyprus Avenue",
+            "city": "Cork",
+            "ticket_link": "https://www.ticketmaster.ie"
         }
     ]
 }

@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-    title: "Stick N' Poke - Post-Punk Band from Wicklow, Ireland",
-    description: "Stick N' Poke are a four piece, hard rock band from County Wicklow. Stream our latest release on Spotify.",
-    keywords: ["Stick N' Poke", "post-punk", "indie", "hard rock", "Wicklow", "Ireland", "band"],
+    title: "The Sunday Roast - Indie Rock Band from Ireland",
+    description: "The Sunday Roast are an indie rock band bringing high-energy performances and infectious melodies to venues across Ireland.",
+    keywords: ["The Sunday Roast", "indie rock", "alternative", "Ireland", "band", "live music"],
     openGraph: {
-        title: "Stick N' Poke",
-        description: "Post-Punk / Indie band from Wicklow, Ireland",
+        title: "The Sunday Roast",
+        description: "Indie Rock / Alternative band from Ireland",
         type: "website",
     },
 };

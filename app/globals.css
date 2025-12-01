@@ -44,4 +44,53 @@
             0 0 0 6px #0a0a0a,
             0 0 0 9px #e63946;
     }
+
+    /* Guitar string vibration effect */
+    @keyframes guitar-vibrate {
+
+        0%,
+        100% {
+            transform: translateX(0) skewX(0deg);
+        }
+
+        10% {
+            transform: translateX(-2px) skewX(-1deg);
+        }
+
+        20% {
+            transform: translateX(2px) skewX(1deg);
+        }
+
+        30% {
+            transform: translateX(-2px) skewX(-0.5deg);
+        }
+
+        40% {
+            transform: translateX(2px) skewX(0.5deg);
+        }
+
+        50% {
+            transform: translateX(-1px) skewX(-0.5deg);
+        }
+
+        60% {
+            transform: translateX(1px) skewX(0.5deg);
+        }
+
+        70% {
+            transform: translateX(-1px) skewX(-0.3deg);
+        }
+
+        80% {
+            transform: translateX(1px) skewX(0.3deg);
+        }
+
+        90% {
+            transform: translateX(-0.5px) skewX(-0.1deg);
+        }
+    }
+
+    .guitar-string-hover:hover {
+        animation: guitar-vibrate 0.6s ease-in-out;
+    }
 }
