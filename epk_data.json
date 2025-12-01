@@ -1,0 +1,49 @@
+{
+    "bio": {
+        "short": "The Sunday Roast are an indie rock band from Ireland bringing high-energy performances and infectious melodies to venues nationwide. Their unique blend of alternative rock captivates audiences everywhere.",
+        "long": "The Sunday Roast are an indie rock band from Ireland who have quickly established themselves as a force on the alternative music scene. With their unique blend of raw energy and melodic sensibility, the band delivers high-octane performances that leave audiences wanting more. Drawing influences from post-punk revival and modern indie rock, their sound captures both the grit of underground rock and the polish of contemporary alternative. The band's live shows are characterized by tight musicianship, dynamic stage presence, and an undeniable connection with their crowd. Having played sold-out venues across Ireland, The Sunday Roast continue to build momentum with each performance. Their latest releases showcase a maturing sound that balances accessibility with artistic integrity, earning them critical acclaim and a rapidly growing fanbase. Whether headlining intimate club shows or supporting major acts at festivals, The Sunday Roast prove they're a band on the rise."
+    },
+    "assets": [
+        {
+            "title": "Band Photo - High Res (CMYK)",
+            "format": "JPG",
+            "size": "15 MB",
+            "downloadUrl": "/press-assets/band-photo-cmyk.jpg"
+        },
+        {
+            "title": "Band Photo - High Res (RGB)",
+            "format": "JPG",
+            "size": "12 MB",
+            "downloadUrl": "/press-assets/band-photo-rgb.jpg"
+        },
+        {
+            "title": "Tech Rider",
+            "format": "PDF",
+            "size": "2.5 MB",
+            "downloadUrl": "/press-assets/tech-rider.pdf"
+        },
+        {
+            "title": "Stage Plot",
+            "format": "PDF",
+            "size": "1.8 MB",
+            "downloadUrl": "/press-assets/stage-plot.pdf"
+        }
+    ],
+    "contact": {
+        "management": {
+            "name": "Sarah O'Brien",
+            "email": "management@thesundayroast.ie",
+            "phone": "+353 87 123 4567"
+        },
+        "pr": {
+            "name": "Dublin Media Group",
+            "email": "pr@dublinmediagroup.ie",
+            "phone": "+353 1 234 5678"
+        },
+        "booking": {
+            "name": "Live Nation Ireland",
+            "email": "booking@thesundayroast.ie",
+            "phone": "+353 87 987 6543"
+        }
+    }
+}

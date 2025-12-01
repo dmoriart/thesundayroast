@@ -53,6 +53,12 @@ export default function Home() {
                                 Tour
                             </button>
                         )}
+                        <a
+                            href="/press"
+                            className="text-rock-cream hover:text-rock-red transition-colors uppercase font-bold text-sm hidden md:block"
+                        >
+                            EPK
+                        </a>
                         {bandData.social_links.instagram && (
                             <a
                                 href={bandData.social_links.instagram}
